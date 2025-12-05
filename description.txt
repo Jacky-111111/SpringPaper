@@ -1,0 +1,7 @@
+
+SpringPaper – Chinese Papercut Art Simulator
+
+SpringPaper is a digital tool inspired by the traditional Chinese papercutting art in Spring Festival.
+By simulating real folding-and-cutting techniques used in making flowery paper decorations that are often placed on windows and walls to celebrate the New Year, users can design their own symmetrical papercut masterpieces with simple clicks and drags.
+
+Please click the instruction icon for detailed instructions, and feel free to explore the sample designs provided!
